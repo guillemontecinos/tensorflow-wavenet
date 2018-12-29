@@ -10,7 +10,8 @@
 * `--num_steps=50000`
 * `--silence_threshold=0.01`
 * Command executed: `python train.py --data_dir=corpus --silence_threshold=0.01 --num_steps=50000`
-* Expected finish time: Mon. Dec. 24th, 2018. 4:51 am
+* Expected end time: Mon. Dec. 24th, 2018. 4:51 am
+* Actual end: Mon. Dec. 24th, 2018. 1:00 pm (approximately)
 
 ### Model generated
 * `logdir/train/2018-12-21T22-50-05/model.ckpt-49999`
