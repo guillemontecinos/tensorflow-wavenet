@@ -30,3 +30,5 @@
   * The King of Limbs
   * A Moon Shaped Pool
 * Total corpus: 2.62 Gb
+* Time/step: 20 seconds approximately
+* Status: Not trained
