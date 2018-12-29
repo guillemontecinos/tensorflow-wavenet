@@ -17,7 +17,7 @@
 
 ### Generated data
 * To generate 1 sec: `python generate.py --wav_out_path=generated.wav -- samples 16000 logdir/train/2018-12-21T22-50-05/model.ckpt-49999`
-*
+* Generated examples [here](https://github.com/guillemontecinos/tensorflow-wavenet/tree/master/generated)
 
 ## 2nd train attempt
 
